@@ -1,3 +1,4 @@
 # testrepo
 
-Editiing ReadMe file
+Testing repository 
+This is the first markdown file
